@@ -4,17 +4,25 @@ An Android application designed to help users explore different states of Austra
 Features:
 
 Light/dark mode toggle
+
 Load states from Local json file
+
 Reverse order based on state
+
 View cities by expanding state
 
 Technologies Used:
 
 Kotlin for app development
+
 Jetpack compose for UI framework
+
 Followed MVVM Architecture & Solid principles
+
 Coroutines for loading data from Local json file
+
 Dependency injection with Hilt
+
 Unit testing with JUnit
 
 Installation:
