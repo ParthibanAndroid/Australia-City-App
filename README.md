@@ -3,10 +3,7 @@ An Android application designed to help users explore different states of Austra
 
 **Features:**
 
-Light/dark mode toggle
-Load states from Local json file
-Reverse order based on state
-View cities by expanding state
+Light/dark mode toggle, Load states from Local json file, Reverse order based on state, View cities by expanding state
 
 **Technologies Used:**
 
