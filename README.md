@@ -1,4 +1,4 @@
-![Screenshot_1706181231](https://github.com/ParthibanAndroid/Australian-City-App/assets/37995906/2b613ec3-43a5-4122-bc5a-e83b71f49466)Jetpack Compose Demo
+Jetpack Compose Demo
 An Android application designed to help users explore different states of Australia by providing information about popular places.
 
 Features:
