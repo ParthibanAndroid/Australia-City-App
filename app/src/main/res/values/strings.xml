@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Australia City App</string>
+    <string name="arrow_up">Arrow up content description</string>
+    <string name="arrow_down">Arrow down content description</string>
+</resources>
