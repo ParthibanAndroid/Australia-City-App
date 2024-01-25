@@ -27,6 +27,10 @@ Followed MVVM with Clean Architecture
 
 Coroutines for loading data from Local json file
 
+Screen Shots : 
+
+
+
 License:
 
 Copyright 2023 Google Inc.
